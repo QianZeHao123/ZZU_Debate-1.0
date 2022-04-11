@@ -1,0 +1,86 @@
+@keyframes centerToLeft
+{
+	from {left:0;} 
+	to {left:-100%;}
+}
+@-moz-keyframes centerToLeft /* Firefox */
+{
+	from {left:0;} 
+	to {left:-100%;}
+}
+@-webkit-keyframes centerToLeft /* Safari Chrome */
+{
+	from {left:0;} 
+	to {left:-100%;}
+}
+@-o-keyframes centerToLeft /* Opera */
+{
+	from {left:0;} 
+	to {left:-100%;}
+}
+
+
+@keyframes rightToCenter
+{
+	from {left:100%;} 
+	to {left:0%;}
+}
+@-moz-keyframes rightToCenter /* Firefox */
+{
+	from {left:100%;} 
+	to {left:0%;}
+}
+@-webkit-keyframes rightToCenter /* Safari Chrome */
+{
+	from {left:100%;} 
+	to {left:0%;}
+}
+@-o-keyframes rightToCenter /* Opera */
+{
+	from {left:100%;} 
+	to {left:0%;}
+}
+
+
+@keyframes leftToCenter
+{
+	from {left:-100%;} 
+	to {left:0%;}
+}
+@-moz-keyframes leftToCenter /* Firefox */
+{
+	from {left:-100%;} 
+	to {left:0%;}
+}
+@-webkit-keyframes leftToCenter /* Safari Chrome */
+{
+	from {left:-100%;} 
+	to {left:0%;}
+}
+@-o-keyframes leftToCenter /* Opera */
+{
+	from {left:-100%;} 
+	to {left:0%;}
+}
+
+
+@keyframes centerToRight
+{
+	from {left:-0%;} 
+	to {left:100%;}
+}
+@-moz-keyframes centerToRight /* Firefox */
+{
+	from {left:-0%;} 
+	to {left:100%;}
+}
+@-webkit-keyframes centerToRight /* Safari Chrome */
+{
+	from {left:-0%;} 
+	to {left:100%;}
+}
+@-o-keyframes centerToRight /* Opera */
+{
+	from {left:-0%;} 
+	to {left:100%;}
+}
